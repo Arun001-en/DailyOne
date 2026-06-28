@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2057-smallest-index-with-equal-value](https://github.com/Arun001-en/DailyOne/tree/master/2057-smallest-index-with-equal-value) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
