@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Arun001-en/DailyOne/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
