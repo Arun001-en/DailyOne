@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arun001-en/DailyOne/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
