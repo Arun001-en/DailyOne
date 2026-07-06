@@ -1,20 +1,13 @@
 class Solution {
     public int specialArray(int[] nums) {
-        int[] freq = new int[nums.length+1];
-        for(int i = 0 ; i<nums.length ; i++){
-            if(nums[i]>=nums.length){
-                freq[nums.length]++;
-            }
-            else{
-                freq[nums[i]]++;
-            }
+        for(int i=1;i<=nums.length;i++){
+            int count=0;
+            for(int j=0;j<nums.length;j++){
+            if(nums[j]>=i)
+                count++;
         }
-        int c = 0;
-        for(int i = nums.length ; i>=0 ; i--){
-            c+=freq[i];
-            if(c==i){
-                return i;
-            }
+        if(count==i)
+        return count;
         }
         return -1;
     }
