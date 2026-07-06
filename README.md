@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/Arun001-en/DailyOne/tree/master/2057-smallest-index-with-equal-value) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
 ## Binary Search
 |  |
