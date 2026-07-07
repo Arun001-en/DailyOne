@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
+| [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
