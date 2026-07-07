@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Arun001-en/DailyOne/tree/master/0507-perfect-number) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun001-en/DailyOne/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Arun001-en/DailyOne/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
