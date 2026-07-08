@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun001-en/DailyOne/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Arun001-en/DailyOne/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Arun001-en/DailyOne/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Arun001-en/DailyOne/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3945-digit-frequency-score](https://github.com/Arun001-en/DailyOne/tree/master/3945-digit-frequency-score) |
 ## Simulation
