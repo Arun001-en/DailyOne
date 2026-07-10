@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Arun001-en/DailyOne/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/Arun001-en/DailyOne/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Arun001-en/DailyOne/tree/master/0507-perfect-number) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun001-en/DailyOne/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
