@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arun001-en/DailyOne/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/Arun001-en/DailyOne/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Arun001-en/DailyOne/tree/master/0507-perfect-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Arun001-en/DailyOne/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Linked List
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Arun001-en/DailyOne/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
