@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/Arun001-en/DailyOne/tree/master/2057-smallest-index-with-equal-value) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
