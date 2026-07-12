@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Arun001-en/DailyOne/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/Arun001-en/DailyOne/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Arun001-en/DailyOne/tree/master/0507-perfect-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/Arun001-en/DailyOne/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun001-en/DailyOne/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Arun001-en/DailyOne/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Arun001-en/DailyOne/tree/master/1688-count-of-matches-in-tournament) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
