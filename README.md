@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/Arun001-en/DailyOne/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Arun001-en/DailyOne/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
