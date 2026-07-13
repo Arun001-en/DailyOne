@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/Arun001-en/DailyOne/tree/master/2057-smallest-index-with-equal-value) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
