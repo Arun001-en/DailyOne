@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Arun001-en/DailyOne/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
