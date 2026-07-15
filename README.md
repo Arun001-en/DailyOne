@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Arun001-en/DailyOne/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arun001-en/DailyOne/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Arun001-en/DailyOne/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Arun001-en/DailyOne/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3945-digit-frequency-score](https://github.com/Arun001-en/DailyOne/tree/master/3945-digit-frequency-score) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Arun001-en/DailyOne/tree/master/0627-swap-sex-of-employees) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arun001-en/DailyOne/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
