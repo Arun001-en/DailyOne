@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
+| [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
