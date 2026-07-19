@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
+| [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
+| [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
