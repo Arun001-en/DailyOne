@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3163-string-compression-iii](https://github.com/Arun001-en/DailyOne/tree/master/3163-string-compression-iii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/Arun001-en/DailyOne/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
+| [3612-process-string-with-special-operations-i](https://github.com/Arun001-en/DailyOne/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
