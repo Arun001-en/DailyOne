@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3163-string-compression-iii](https://github.com/Arun001-en/DailyOne/tree/master/3163-string-compression-iii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
