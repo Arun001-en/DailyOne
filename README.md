@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arun001-en/DailyOne/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arun001-en/DailyOne/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Arun001-en/DailyOne/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arun001-en/DailyOne/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Arun001-en/DailyOne/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Arun001-en/DailyOne/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
