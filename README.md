@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
+| [2938-separate-black-and-white-balls](https://github.com/Arun001-en/DailyOne/tree/master/2938-separate-black-and-white-balls) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3163-string-compression-iii](https://github.com/Arun001-en/DailyOne/tree/master/3163-string-compression-iii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/Arun001-en/DailyOne/tree/master/2938-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/Arun001-en/DailyOne/tree/master/2938-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |
