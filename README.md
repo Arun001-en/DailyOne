@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/Arun001-en/DailyOne/tree/master/2938-separate-black-and-white-balls) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3163-string-compression-iii](https://github.com/Arun001-en/DailyOne/tree/master/3163-string-compression-iii) |
+| [3174-clear-digits](https://github.com/Arun001-en/DailyOne/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Arun001-en/DailyOne/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2739-total-distance-traveled](https://github.com/Arun001-en/DailyOne/tree/master/2739-total-distance-traveled) |
+| [3174-clear-digits](https://github.com/Arun001-en/DailyOne/tree/master/3174-clear-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/Arun001-en/DailyOne/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Arun001-en/DailyOne/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Arun001-en/DailyOne/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
