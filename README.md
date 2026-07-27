@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Arun001-en/DailyOne/tree/master/2000-reverse-prefix-of-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Arun001-en/DailyOne/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [2938-separate-black-and-white-balls](https://github.com/Arun001-en/DailyOne/tree/master/2938-separate-black-and-white-balls) |
