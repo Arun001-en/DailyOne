@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/Arun001-en/DailyOne/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/Arun001-en/DailyOne/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arun001-en/DailyOne/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Arun001-en/DailyOne/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Arun001-en/DailyOne/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Arun001-en/DailyOne/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arun001-en/DailyOne/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun001-en/DailyOne/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Arun001-en/DailyOne/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
