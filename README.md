@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arun001-en/DailyOne/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Arun001-en/DailyOne/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/Arun001-en/DailyOne/tree/master/3151-special-array-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arun001-en/DailyOne/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
