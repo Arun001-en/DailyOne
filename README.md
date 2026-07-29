@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/Arun001-en/DailyOne/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arun001-en/DailyOne/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Arun001-en/DailyOne/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Arun001-en/DailyOne/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Arun001-en/DailyOne/tree/master/1688-count-of-matches-in-tournament) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
