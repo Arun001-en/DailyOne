@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Arun001-en/DailyOne/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun001-en/DailyOne/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
