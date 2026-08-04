@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Arun001-en/DailyOne/tree/master/3151-special-array-i) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arun001-en/DailyOne/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arun001-en/DailyOne/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/Arun001-en/DailyOne/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arun001-en/DailyOne/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arun001-en/DailyOne/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Arun001-en/DailyOne/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Arun001-en/DailyOne/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arun001-en/DailyOne/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Arun001-en/DailyOne/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/Arun001-en/DailyOne/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3945-digit-frequency-score](https://github.com/Arun001-en/DailyOne/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
