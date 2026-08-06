@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Arun001-en/DailyOne/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arun001-en/DailyOne/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun001-en/DailyOne/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Arun001-en/DailyOne/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arun001-en/DailyOne/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Arun001-en/DailyOne/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Arun001-en/DailyOne/tree/master/1920-build-array-from-permutation) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Arun001-en/DailyOne/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Arun001-en/DailyOne/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Arun001-en/DailyOne/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Arun001-en/DailyOne/tree/master/3174-clear-digits) |
