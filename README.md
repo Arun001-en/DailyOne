@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Arun001-en/DailyOne/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arun001-en/DailyOne/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Arun001-en/DailyOne/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/Arun001-en/DailyOne/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Arun001-en/DailyOne/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Arun001-en/DailyOne/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arun001-en/DailyOne/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Arun001-en/DailyOne/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arun001-en/DailyOne/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arun001-en/DailyOne/tree/master/3536-maximum-product-of-two-digits) |
