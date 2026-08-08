@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Arun001-en/DailyOne/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/Arun001-en/DailyOne/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Arun001-en/DailyOne/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Arun001-en/DailyOne/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Arun001-en/DailyOne/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/Arun001-en/DailyOne/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arun001-en/DailyOne/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Arun001-en/DailyOne/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/Arun001-en/DailyOne/tree/master/1496-path-crossing) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arun001-en/DailyOne/tree/master/2221-find-triangular-sum-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
