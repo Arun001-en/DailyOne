@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/Arun001-en/DailyOne/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
