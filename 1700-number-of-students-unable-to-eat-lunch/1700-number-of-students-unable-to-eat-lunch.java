@@ -1,33 +1,25 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        int one = 0;
-        int zero = 0;
-        for(int num : students){
-            if(num==0){
-                zero++;
+        Queue<Integer> q = new LinkedList<>();
+        for(int s : students){
+            q.add(s);
+        }
+        int i = 0;
+        int c = 0;
+        while(!q.isEmpty()){
+            if(q.peek()==sandwiches[i]){
+                q.poll();
+                i++;
+                c = 0;
             }
             else{
-                one++;
+                q.add(q.poll());
+                c++;
+            }
+            if(c==q.size()){
+                break;
             }
         }
-        for(int sand:sandwiches){
-            if(sand==0){
-                if(zero==0){
-                    return one;
-                }
-                else{
-                    zero--;
-                }
-            }
-            else{
-                if(one==0){
-                    return zero;
-                }
-                else{
-                    one--;
-                }
-            }
-        }
-        return 0;
+        return q.size();
     }
 }
