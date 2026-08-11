@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arun001-en/DailyOne/tree/master/0944-delete-columns-to-make-sorted) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
 |  |
