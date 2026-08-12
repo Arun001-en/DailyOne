@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Arun001-en/DailyOne/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0054-spiral-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun001-en/DailyOne/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun001-en/DailyOne/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
