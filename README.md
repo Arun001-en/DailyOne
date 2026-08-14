@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Arun001-en/DailyOne/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Arun001-en/DailyOne/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arun001-en/DailyOne/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Arun001-en/DailyOne/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arun001-en/DailyOne/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Arun001-en/DailyOne/tree/master/2000-reverse-prefix-of-word) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Arun001-en/DailyOne/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arun001-en/DailyOne/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Arun001-en/DailyOne/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Arun001-en/DailyOne/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arun001-en/DailyOne/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
