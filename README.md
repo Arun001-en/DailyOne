@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Arun001-en/DailyOne/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Arun001-en/DailyOne/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arun001-en/DailyOne/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Arun001-en/DailyOne/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arun001-en/DailyOne/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arun001-en/DailyOne/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -400,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Arun001-en/DailyOne/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
