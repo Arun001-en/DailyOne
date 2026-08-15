@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Arun001-en/DailyOne/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Arun001-en/DailyOne/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Arun001-en/DailyOne/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Arun001-en/DailyOne/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Arun001-en/DailyOne/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun001-en/DailyOne/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Arun001-en/DailyOne/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/Arun001-en/DailyOne/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/Arun001-en/DailyOne/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun001-en/DailyOne/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Arun001-en/DailyOne/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arun001-en/DailyOne/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arun001-en/DailyOne/tree/master/0202-happy-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Arun001-en/DailyOne/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Arun001-en/DailyOne/tree/master/2000-reverse-prefix-of-word) |
