@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Arun001-en/DailyOne/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Arun001-en/DailyOne/tree/master/0941-valid-mountain-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Arun001-en/DailyOne/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Arun001-en/DailyOne/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Arun001-en/DailyOne/tree/master/1137-n-th-tribonacci-number) |
