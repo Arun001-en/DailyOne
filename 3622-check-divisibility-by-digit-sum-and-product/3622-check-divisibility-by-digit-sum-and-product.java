@@ -8,6 +8,10 @@ class Solution {
             prod*=r%10;
             r = r/10;
         }
-        return n % (sum+prod) ==0;
+        int sum2 = sum+prod;
+        if(n%sum2==0){
+            return true;
+        }
+        return false;
     }
 }
