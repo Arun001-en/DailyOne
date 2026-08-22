@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arun001-en/DailyOne/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 | [2057-smallest-index-with-equal-value](https://github.com/Arun001-en/DailyOne/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arun001-en/DailyOne/tree/master/2109-adding-spaces-to-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Arun001-en/DailyOne/tree/master/1323-maximum-69-number) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arun001-en/DailyOne/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Arun001-en/DailyOne/tree/master/2864-maximum-odd-binary-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Arun001-en/DailyOne/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Arun001-en/DailyOne/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arun001-en/DailyOne/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Arun001-en/DailyOne/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Arun001-en/DailyOne/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Arun001-en/DailyOne/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun001-en/DailyOne/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arun001-en/DailyOne/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/Arun001-en/DailyOne/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Arun001-en/DailyOne/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Arun001-en/DailyOne/tree/master/2651-calculate-delayed-arrival-time) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Arun001-en/DailyOne/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Arun001-en/DailyOne/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -409,10 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -437,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Arun001-en/DailyOne/tree/master/0509-fibonacci-number) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
