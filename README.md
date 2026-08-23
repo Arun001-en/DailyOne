@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Arun001-en/DailyOne/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arun001-en/DailyOne/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Arun001-en/DailyOne/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
 | [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arun001-en/DailyOne/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Arun001-en/DailyOne/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Arun001-en/DailyOne/tree/master/0134-gas-station) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Arun001-en/DailyOne/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Arun001-en/DailyOne/tree/master/1323-maximum-69-number) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arun001-en/DailyOne/tree/master/0229-majority-element-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Arun001-en/DailyOne/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Arun001-en/DailyOne/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Arun001-en/DailyOne/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Arun001-en/DailyOne/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
