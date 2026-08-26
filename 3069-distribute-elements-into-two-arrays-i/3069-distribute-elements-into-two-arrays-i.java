@@ -2,6 +2,7 @@ class Solution {
     public int[] resultArray(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
         ArrayList<Integer> arr1 = new ArrayList<>();
+        
         // Yaha Par Hamne 1st and second Element ko Add kar diya do arryList ki madad se
         arr.add(nums[0]);
         arr1.add(nums[1]);   
