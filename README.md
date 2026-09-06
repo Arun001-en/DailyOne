@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Arun001-en/DailyOne/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Arun001-en/DailyOne/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arun001-en/DailyOne/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun001-en/DailyOne/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Arun001-en/DailyOne/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arun001-en/DailyOne/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Arun001-en/DailyOne/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arun001-en/DailyOne/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arun001-en/DailyOne/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Arun001-en/DailyOne/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Arun001-en/DailyOne/tree/master/1768-merge-strings-alternately) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Arun001-en/DailyOne/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Arun001-en/DailyOne/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Arun001-en/DailyOne/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Arun001-en/DailyOne/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -460,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Arun001-en/DailyOne/tree/master/2029-stone-game-ix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arun001-en/DailyOne/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
