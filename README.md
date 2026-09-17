@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Arun001-en/DailyOne/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arun001-en/DailyOne/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun001-en/DailyOne/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Arun001-en/DailyOne/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Arun001-en/DailyOne/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arun001-en/DailyOne/tree/master/0976-largest-perimeter-triangle) |
@@ -486,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Arun001-en/DailyOne/tree/master/0300-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Arun001-en/DailyOne/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
