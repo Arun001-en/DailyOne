@@ -1,9 +1,14 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int ans = 0;
-        for(int i = 0 ; i<nums.length ; i++){
-            ans = ans^nums[i];
+        HashMap<Integer , Integer> ans = new HashMap<>();
+        for(int num : nums){
+            ans.put(num , ans.getOrDefault(num , 0)+1);
         }
-        return ans;
+        for(int num : nums){
+            if(ans.get(num)==1){
+                return num;
+            }
+        }
+        return -1;
     }
 }
