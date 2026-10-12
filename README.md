@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Arun001-en/DailyOne/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Arun001-en/DailyOne/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Arun001-en/DailyOne/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arun001-en/DailyOne/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Arun001-en/DailyOne/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Arun001-en/DailyOne/tree/master/2965-find-missing-and-repeated-values) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arun001-en/DailyOne/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Arun001-en/DailyOne/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arun001-en/DailyOne/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Graph Theory
 |  |
