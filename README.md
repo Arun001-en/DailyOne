@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Arun001-en/DailyOne/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Arun001-en/DailyOne/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arun001-en/DailyOne/tree/master/0944-delete-columns-to-make-sorted) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Arun001-en/DailyOne/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Arun001-en/DailyOne/tree/master/0383-ransom-note) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Arun001-en/DailyOne/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arun001-en/DailyOne/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Arun001-en/DailyOne/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arun001-en/DailyOne/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Arun001-en/DailyOne/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Arun001-en/DailyOne/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
 | [0970-powerful-integers](https://github.com/Arun001-en/DailyOne/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/Arun001-en/DailyOne/tree/master/0997-find-the-town-judge) |
