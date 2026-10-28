@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arun001-en/DailyOne/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Arun001-en/DailyOne/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Arun001-en/DailyOne/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arun001-en/DailyOne/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arun001-en/DailyOne/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arun001-en/DailyOne/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Arun001-en/DailyOne/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Arun001-en/DailyOne/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Arun001-en/DailyOne/tree/master/0169-majority-element) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arun001-en/DailyOne/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Arun001-en/DailyOne/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arun001-en/DailyOne/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arun001-en/DailyOne/tree/master/0172-factorial-trailing-zeroes) |
